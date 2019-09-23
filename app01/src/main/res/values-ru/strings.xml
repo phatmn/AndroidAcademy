@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidAcademy</string>
+    <string name="btnPreviewText">Предпросмотр</string>
+    <string name="defaultSubject">тестовая тема</string>
+    <string name="msgHint">Напишите сообщение здесь...</string>
+    <string name="noEmailAppFound">Не найдено почтовых приложений</string>
+</resources>

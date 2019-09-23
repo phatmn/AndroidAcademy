@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidAcademy</string>
+    <string name="btnPreviewText">Preview</string>
+    <string name="msgHint">Type your message here...</string>
+    <string name="btnEmail" translatable="false">Email</string>
+    <string name="defaultSubject">test subject</string>
+    <string name="noEmailAppFound">No email app found</string>
+    <string name="defaultEmail" translatable="false">some@email.com</string>
+</resources>

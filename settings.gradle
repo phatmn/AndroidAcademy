@@ -1,0 +1,2 @@
+include ':app01', ':app02'
+rootProject.name='AndroidAcademy'

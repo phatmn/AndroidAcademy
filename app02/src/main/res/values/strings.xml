@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app02</string>
+    <string name="email">phatmn@gmail.com</string>
+    <string name="emailSubject">From business card app</string>
+    <string name="noEmailAppFound">No email app found</string>
+    <string name="appNotFound">App not found</string>
+</resources>
